@@ -11,56 +11,9 @@ playing field:
 (1, 2)(2, 2)(3, 2)   
 (1, 1)(2, 1)(3, 1)  
 
+Enter the coordinates in form e.g. 2 2   
+
 Learning outcomes:  
 Planning and developing a complex program from scratch, using classes and functions, handling errors, and processing user input. 
 
 This program is based on project from hyperskill.org: https://hyperskill.org/projects/82?track=2
-
-# Game example:  
-
-Input command: > start hard user
-Making move level "hard"
----------  
-|       |  
-| X     |  
-|       |  
----------  
-Enter the coordinates: > 2 2  
----------  
-|       |  
-| X O   |  
-|       |  
----------  
-Making move level "hard"  
----------
-|   X   |
-| X O   |
-|       |
----------
-Enter the coordinates: > 2 1
----------
-|   X   |
-| X O   |
-|   O   |
----------
-Making move level "hard"
----------
-| X X   |
-| X O   |
-|   O   |
----------
-Enter the coordinates: > 1 1
----------
-| X X   |
-| X O   |
-| O O   |
----------
-Making move level "hard"
----------
-| X X X |
-| X O   |
-| O O   |
----------
-X wins
-
-Input command: > exit
