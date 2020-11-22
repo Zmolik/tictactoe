@@ -1,7 +1,7 @@
 # tictactoe
 Tic-Tac-Toe with AI (easy, medium, hard).
 
-AI difficulty from easy (random choice) to hard (minimax).
+AI difficulty from easy (random choice) to hard (minimax algorithm).
 
 Start the game by writing: "start player_X player_O" where player can be user, easy, medium or hard  
 e.g. start user medium
@@ -14,6 +14,6 @@ playing field:
 Enter the coordinates in form e.g. 2 2   
 
 Learning outcomes:  
-Planning and developing a complex program from scratch, using classes and functions, handling errors, and processing user input. 
+Planning and developing a complex program from scratch, using classes and functions, handling errors, processing user input and finally implementation of minimax algorithm.  
 
 This program is based on project from hyperskill.org: https://hyperskill.org/projects/82?track=2
